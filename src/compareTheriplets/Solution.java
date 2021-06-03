@@ -1,3 +1,4 @@
+package compareTheriplets;
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -37,7 +38,7 @@ class Result {
 
 }
 
-public class CompareTheTriplets {
+public class Solution {
 	public static void main(String[] args) throws IOException {
 		BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 		BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
