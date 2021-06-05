@@ -30,7 +30,7 @@ Starts HackerRank on 06/01/2021
 
 ## Java Solution List
 
-| | Problem Name | Difficulty | Solutions | Last Solved |
+| Status | Problem Name | Difficulty | Solutions | Last Solved |
 | --- | --- | :---: | --- | :---: |
 || [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | Easy | [Solution](https://github.com/shogo54/hackerrank-java/blob/master/src/compareTheriplets/Solution.java) | 06/02/2021 |
 || [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem) | Easy | [Solution](https://github.com/shogo54/hackerrank-java/blob/master/src/salesByMatch/Solution.java) | 06/02/2021 |
