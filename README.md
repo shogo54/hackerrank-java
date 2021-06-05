@@ -41,3 +41,5 @@ Starts HackerRank on 06/01/2021
 || [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | Easy | [Solution](https://github.com/shogo54/hackerrank-java/blob/master/src/arrays_LeftRotation/Solution.java) | 06/04/2021 |
 | \* | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) | Medium | [Solution](https://github.com/shogo54/hackerrank-java/blob/master/src/newYearChaos/Solution.java) | 06/04/2021 |
 | x | [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem) | Hard | [Solution](https://github.com/shogo54/hackerrank-java/blob/master/src/arrayManipulation/Solution.java) | 06/04/2021 |
+|| [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | Easy | [Solution](https://github.com/shogo54/hackerrank-java/blob/master/src/hashTables_RansomNote/Solution.java) | 06/05/2021 |
+|| [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) | Easy | [Solution](https://github.com/shogo54/hackerrank-java/blob/master/src/twoStrings/Solution.java) | 06/05/2021 |
