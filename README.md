@@ -32,7 +32,7 @@ Starts HackerRank on 06/01/2021
 
 | | Problem Name | Difficulty | Solutions | Last Solved |
 | --- | --- | :---: | --- | :---: |
-|| [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem) | Easy | [Solution](https://github.com/shogo54/hackerrank-java/blob/master /src/salesByMatch/Solution.java) | 06/02/2021 |
+|| [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem) | Easy | [Solution](https://github.com/shogo54/hackerrank-java/blob/master/src/salesByMatch/Solution.java) | 06/02/2021 |
 || [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) | Easy | [Solution](https://github.com/shogo54/hackerrank-java/blob/master/src/repeatedString/Solution.java) | 06/02/2021 |
 || [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) | Easy | [Solution](https://github.com/shogo54/hackerrank-java/blob/master/src/countingValleys/Solution.java) | 06/03/2021 |
 || [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | Easy | [Solution](https://github.com/shogo54/hackerrank-java/blob/master/src/jumpingOnTheClouds/Solution.java)| 06/03/2021 |
