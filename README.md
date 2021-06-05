@@ -1,6 +1,6 @@
 # HackerRank Java
 
-This is the list of my accepted HackerRank solutions for Problem Solving section, solved in Java8.
+This is the list of my accepted HackerRank solutions for the Problem Solving section, solved in Java8. 
 
 ## How to Use the List
 
