@@ -44,3 +44,4 @@ Starts HackerRank on 06/01/2021
 || [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | Easy | [Solution](https://github.com/shogo54/hackerrank-java/blob/master/src/hashTables_RansomNote/Solution.java) | 06/05/2021 |
 || [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) | Easy | [Solution](https://github.com/shogo54/hackerrank-java/blob/master/src/twoStrings/Solution.java) | 06/05/2021 |
 | ** | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) | Medium | [Solution](https://github.com/shogo54/hackerrank-java/blob/master/src/sherlockAndAnagrams/Solution.java) | 06/07/2021 |
+|| [Frequency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem) | Medium | [Solution](https://github.com/shogo54/hackerrank-java/blob/master/src/frequencyQueries/Solution.java) | 06/08/2021 |
