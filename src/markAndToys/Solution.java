@@ -24,11 +24,11 @@ class Result {
      */
 
 	/*
-	 * Approach:
+	 * Approach: (Greedy)
 	 * 1. sort the prices list
 	 * 2. go through the list
 	 * 3. if the value is smaller than or equals to k, decrease k by the value in the list while counting
-	 * 3. if the value is bigger than k, return the count
+	 * 4. if the value is bigger than k, return the count
 	 * 
 	 * Complexity:
 	 * Time - O(nlogn) = nlogn for sorting + n for the loop 
