@@ -49,3 +49,4 @@ Starts HackerRank on 06/01/2021
 || [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem) | Easy | [Solution](https://github.com/shogo54/hackerrank-java/blob/master/src/markAndToys/Solution.java) | 06/10/2021 |
 |* & **| [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem) | Medium | [Solution](https://github.com/shogo54/hackerrank-java/blob/master/src/fraudulentActivityNotifications/Solution.java) | 06/11/2021 |
 || [Sorting: Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem) | Medium | [Solution](https://github.com/shogo54/hackerrank-java/blob/master/src/sorting_Comparator/Solution.java) | 06/14/2021 |
+|| [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem) | Easy | [Solution]() | 06/15/2021 |
