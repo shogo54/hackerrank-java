@@ -51,3 +51,4 @@ Starts HackerRank on 06/01/2021
 || [Sorting: Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem) | Medium | [Solution](https://github.com/shogo54/hackerrank-java/blob/master/src/sorting_Comparator/Solution.java) | 06/14/2021 |
 || [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem) | Easy | [Solution](https://github.com/shogo54/hackerrank-java/blob/master/src/strings_MakingAnagrams/Solution.java) | 06/15/2021 |
 || [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem) | Easy | [Solution](https://github.com/shogo54/hackerrank-java/blob/master/src/alternatingCharacters/Solution.java) | 06/16/2021 |
+| ** & *** | [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) | Medium | [Solution](https://github.com/shogo54/hackerrank-java/blob/master/src/sherlockAndTheValidString/Solution.java) | 06/17/2021 |
