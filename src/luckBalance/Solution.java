@@ -23,8 +23,20 @@ class Result {
      *  2. 2D_INTEGER_ARRAY contests
      */
 
+	/*
+	 * Approach: Greedy
+	 * 1. sort the list by element[1] in acceding order and then element[0] in decending order
+	 * 2. go through the list 
+	 * 3. add element[0] to luck as long as k is positive. otherwise subtract by element[0]
+	 * 
+	 * Complexity:
+	 * Time - O(nlogn) for sorting the list 
+	 * Space - O(1) as no extra space is required
+	 * where n is the size of the list, contests 
+	 */
 	public static int luckBalance(int k, List<List<Integer>> contests) {
 		// Write your code here
+		// #1
 		Collections.sort(contests, (List<Integer> l1, List<Integer> l2) -> {
 			if (l1.get(1) == l2.get(1)) {
 				return l2.get(0) - l1.get(0);
@@ -32,9 +44,11 @@ class Result {
 			return l1.get(1) - l2.get(1);
 		});
 
+		// #2
 		int luck = 0;
 
 		for (List<Integer> contest : contests) {
+			// #3
 			if (k - contest.get(1) >= 0) {
 				k -= contest.get(1);
 				luck += contest.get(0);
