@@ -54,3 +54,4 @@ Starts HackerRank on 06/01/2021
 | ** & *** | [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) | Medium | [Solution](https://github.com/shogo54/hackerrank-java/blob/master/src/sherlockAndTheValidString/Solution.java) | 06/17/2021 |
 || [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) | Easy | [Solution](https://github.com/shogo54/hackerrank-java/blob/master/src/minimumAbsoluteDifferenceInAnArray/Solution.java) | 06/18/2021 |
 || [Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem) | Easy | [Solution](https://github.com/shogo54/hackerrank-java/blob/master/src/luckBalance/Solution.java) | 06/21/2021 |
+|| [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem) | Medium | [Solution](https://github.com/shogo54/hackerrank-java/blob/master/src/greedyFlorist/Solution.java) | 06/22/2021 |
