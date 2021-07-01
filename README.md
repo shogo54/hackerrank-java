@@ -58,3 +58,4 @@ Starts HackerRank on 06/01/2021
 || [Max Min](https://www.hackerrank.com/challenges/angry-children/problem) | Medium | [Solution](https://github.com/shogo54/hackerrank-java/blob/master/src/maxMin/Solution.java) | 06/23/2021 |
 || [Hash Tables: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem) | Medium | [Solution](https://github.com/shogo54/hackerrank-java/blob/master/src/hashTables_IceCreamParlor/Solution.java) | 06/24/2021 |
 || [Pairs](https://www.hackerrank.com/challenges/pairs/problem) | Medium | [Solution](https://github.com/shogo54/hackerrank-java/blob/master/src/pairs/Solution.java) | 06/25/2021 |
+|| [Minimum Time Required](https://www.hackerrank.com/challenges/minimum-time-required/problem) | Medium | [Solution](https://github.com/shogo54/hackerrank-java/blob/master/src/minimumTimeRequired/Solution.java) | 06/28/2021 |
